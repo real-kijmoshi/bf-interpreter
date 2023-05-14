@@ -1,0 +1,30 @@
+{
+  "name": "bf-interpreter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compiler.js",
+  "bin": {
+    "bf": "bin/cli"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/real-kijmoshi/brainfuck-cli.git"
+  },
+  "keywords": [
+    "brainfuck",
+    "cli",
+    "interpreter"
+  ],
+  "author": "kijmoshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/real-kijmoshi/brainfuck-cli/issues"
+  },
+  "homepage": "https://github.com/real-kijmoshi/brainfuck-cli#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
