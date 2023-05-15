@@ -1,6 +1,6 @@
 {
   "name": "bf-interpreter",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "compiler.js",
   "bin": {
@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/real-kijmoshi/bf-interpreter#readme",
   "dependencies": {
+    "brainfuck-interpreter": "^1.0.1",
     "readline-sync": "^1.4.10"
   }
 }
